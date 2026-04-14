@@ -1,5 +1,5 @@
 # Background
-If HTTPS is better than HTTP because of the extra S, then logically the protocol better than HTTPS would be HTTPSS. This project implements a basic example of such a protocol, with the goal that one day future generations might produce even greater protocols (like HTPSSS).
+If HTTPS is better than HTTP because of the extra S, then logically the protocol better than HTTPS would be HTTPSS. This simple project implements just that.
 
 # Usage
 Run the following commands to generate your CA and certificates (we'll be self signing here):
